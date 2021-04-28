@@ -8,3 +8,4 @@
 ## First project downsides:
 ### 😒 Code style
 ### 😥 Not pixel-perfect
+#### 📃 GitHub Pages -> https://winglessframe.github.io/HTML-CSS-practise-landing/
